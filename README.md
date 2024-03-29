@@ -1,4 +1,4 @@
-# Flutter Learning Project
+# Flutter Learning Project (COMPATIBLE FOR BOTH ANDROID AND IOS AND EVEN WEB)
 
 ## Description
 
