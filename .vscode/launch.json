@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "debug",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "program": "${workspaceFolder}/lib/main_development.dart"
+    },
+    {
+      "name": "profile",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile",
+      "program": "${workspaceFolder}/lib/main_beta.dart"
+    },
+    {
+      "name": "release",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "program": "${workspaceFolder}/lib/main_production.dart"
+    }
+  ]
+}

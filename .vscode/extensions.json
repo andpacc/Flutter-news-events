@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "localizely.flutter-intl",
+        "hzgood.dart-data-class-generator",
+        "innwin.i18n-arb-editor",
+        "dart-code.flutter"
+    ]
+}
